@@ -1,0 +1,22 @@
+{
+  "name": "51-testing-jest",
+  "version": "1.0.0",
+  "description": "Testing con JEST ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorFresneda/testing_jest_APV.git"
+  },
+  "author": "Victor Fresneda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorFresneda/testing_jest_APV/issues"
+  },
+  "homepage": "https://github.com/victorFresneda/testing_jest_APV#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
